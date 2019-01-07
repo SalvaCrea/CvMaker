@@ -1,0 +1,39 @@
+{
+  "name": "cvmaker",
+  "version": "1.0.0",
+  "description": "CV Maker",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalvaCrea/CvMaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SalvaCrea/CvMaker/issues"
+  },
+  "homepage": "https://github.com/SalvaCrea/CvMaker#readme",
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^2.4.0",
+    "parcel-bundler": "^1.11.0",
+    "sass": "^1.15.3",
+    "vue-template-compiler": "^2.5.21"
+  },
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "lodash": "^4.17.11",
+    "src": "^1.1.2",
+    "vue": "^2.5.21",
+    "vue-hot-reload-api": "^2.3.1",
+    "vuejs": "^3.0.1"
+  },
+  "alias": {
+    "src": "./src",
+    "data": "./data",
+    "assets": "./assets"
+  }
+}
