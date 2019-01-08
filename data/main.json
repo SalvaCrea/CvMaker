@@ -3,5 +3,6 @@
     "lastName": "Salvador",
     "birthday": "18/07/1991",
     "driverLicence": true,
-    "picture": "me"
+    "picture": "me",
+    "logoUrl": "https://salva-crea.fr/wp-content/uploads/2016/11/logo_salva_crea.jpg"
 }
